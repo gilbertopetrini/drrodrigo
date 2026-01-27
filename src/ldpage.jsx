@@ -146,7 +146,7 @@ de aposentadoria?</p>
           </div>
           <img src="rodrigocomfundo.jpeg" class="h-[200px] mt-[20px] rounded-[15px] xl:h-[300px] xl:w-[300px] shadow-md" />
         </div>
-        <p class="text-[16px] sm:text-[21px] lg:text-[24px] mt-[20px] text-justify xl:hidden ">Meu foco é garantir que os direitos dos consumidores sejam respeitados, com  excelência e comprometimento.</p>
+        <p class="text-[16px] sm:text-[21px] lg:text-[24px] mt-[20px] text-justify xl:hidden "><span class="font-bold"></span>Meu foco é garantir que os direitos dos consumidores sejam respeitados, com  excelência e comprometimento.<span class="font-bold">"</span></p>
       </footer>
     </>
   )
