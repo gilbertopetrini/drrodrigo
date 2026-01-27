@@ -79,7 +79,7 @@ function Ldpage() {
 
       <main class=" bg-[#202020] 2xl:h-screen 2xl:gap-[280px] h-fit pb-[60px] md:pt-[60px] lg:pt-0 flex flex-col items-center  md:flex-row md:justify-center md:gap-[50px] lg:gap-[170px] xl:h-fit xl:gap-[180px] xl:pt-[50px] xl:pb-[60px]">
         <div>
-          <p class="pt-[110px] text-[#C6A357] font-[550] leading-none md:leading-[45px] lg:leading-[60px] mt-[35px] xl:leading-[80px] text-[35px] text-center mb-5 md:text-left lg:text-[45px] xl:text-[60px] ">Descomplique seus <br/>Direitos de Consumidor.</p>
+          <p class="pt-[110px] text-[#C6A357] font-[550] leading-none md:leading-[45px] lg:leading-[60px] mt-[35px] xl:leading-[80px] text-[35px] text-center mb-5 md:text-left lg:text-[45px] xl:text-[60px] ">Descomplique os seus <br/>Direitos.</p>
           <p class="text-white leading-tight font-[450] text-[20px] mt-[30px] text-center md:text-left lg:text-[30px] xl:text-[35px]">Especialista em Direito do Trabalho, <br></br>Consumidor e Previdenciário e Família.</p>
 
           <a onClick={toggleVisibility2} class=" w-[313px] text-[22px] h-[70px] bg-[#C6A357] font-[450] flex justify-center items-center text-white gap-2 rounded-[15px] mt-[40px] cursor-pointer hidden md:flex">
