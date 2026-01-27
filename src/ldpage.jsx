@@ -77,7 +77,7 @@ function Ldpage() {
         <a onClick={toggleVisibility2} class="cursor-pointer flex flex-row justify-center items-center animate-scale-pulse shadow-md flex items-center text-white bg-[#C6A357] text-[15px] justify-center h-[35px] w-[180px]  rounded-lg"> Iniciar Atendimento <FaArrowRight class="flex ml-[5px] justify-center items-center text-[12px]"/></a>
       </header>
 
-      <main class=" bg-[#202020] 2xl:h-screen 2xl:gap-[280px] h-screen md:pt-[60px] lg:pt-0 flex flex-col items-center  md:flex-row md:justify-center md:gap-[50px] lg:gap-[170px] xl:h-fit xl:gap-[180px] xl:pt-[50px] xl:pb-[60px]">
+      <main class=" bg-[#202020] 2xl:h-screen 2xl:gap-[280px] h-fit pb-[60px] md:pt-[60px] lg:pt-0 flex flex-col items-center  md:flex-row md:justify-center md:gap-[50px] lg:gap-[170px] xl:h-fit xl:gap-[180px] xl:pt-[50px] xl:pb-[60px]">
         <div>
           <p class="pt-[110px] text-[#C6A357] font-[550] leading-none md:leading-[45px] lg:leading-[60px] mt-[35px] xl:leading-[80px] text-[35px] text-center mb-5 md:text-left lg:text-[45px] xl:text-[60px] ">Descomplique seus <br/>Direitos de Consumidor.</p>
           <p class="text-white leading-tight font-[450] text-[20px] mt-[30px] text-center md:text-left lg:text-[30px] xl:text-[35px]">Especialista em Direito do Trabalho, <br></br>Consumidor e Previdenciário e Família.</p>
