@@ -86,7 +86,7 @@ function Ldpage() {
             Iniciar Atendimento <FaArrowRight class="flex justify-center items-center text-[19px]"/>
           </a>
           <p class="flex items-center text-white text-[14px] mt-[30px] hidden ml-2 md:flex"><FaSquare class="text-[7px] text-[#C6A357] mr-2 "/>Atendimento 24 horas</p>
-          <p onClick={() => window.open("hhttps://api.whatsapp.com/send/?phone=2195863769&text=Ol%C3%A1+Dr.+Rodrigo%2C+preciso+de+atendimento+urgente.&type=phone_number&app_absent=0")} class=" flex items-center text-white text-[14px] hidden md:flex ml-2"><FaSquare class="text-[7px] text-[#d23131] mr-2 "/>Em caso de urgência,<span class="text-[#d23131] ml-1 cursor-pointer">clique aqui.</span></p>
+          <p onClick={() => window.open("hhttps://api.whatsapp.com/send/?phone=552195863769&text=Ol%C3%A1+Dr.+Rodrigo%2C+preciso+de+atendimento+urgente.&type=phone_number&app_absent=0")} class=" flex items-center text-white text-[14px] hidden md:flex ml-2"><FaSquare class="text-[7px] text-[#d23131] mr-2 "/>Em caso de urgência,<span class="text-[#d23131] ml-1 cursor-pointer">clique aqui.</span></p>
         </div>
         
         <div class="h-fit relative">
@@ -97,7 +97,7 @@ function Ldpage() {
             Iniciar Atendimento <FaArrowRight class="flex justify-center items-center text-[19px]"/>
           </a>
           <p class="md:hidden flex items-center text-white text-[14px] mt-[40px]"><FaSquare class="text-[7px] text-[#C6A357] mr-2"/>Atendimento 24 horas</p>
-          <p onClick={() => window.open("https://api.whatsapp.com/send/?phone=2195863769&text=Ol%C3%A1+Dr.+Rodrigo%2C+preciso+de+atendimento+urgente.&type=phone_number&app_absent=0")} class="md:hidden flex items-center text-white text-[14px]"><FaSquare class="text-[7px] text-[#d23131] mr-2"/>Em caso de urgência ligue,<span class="text-[#d23131] ml-1 cursor-pointer">clique aqui.</span></p>
+          <p onClick={() => window.open("https://api.whatsapp.com/send/?phone=552195863769&text=Ol%C3%A1+Dr.+Rodrigo%2C+preciso+de+atendimento+urgente.&type=phone_number&app_absent=0")} class="md:hidden flex items-center text-white text-[14px]"><FaSquare class="text-[7px] text-[#d23131] mr-2"/>Em caso de urgência ligue,<span class="text-[#d23131] ml-1 cursor-pointer">clique aqui.</span></p>
         </div>
 
       </main>
