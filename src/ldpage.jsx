@@ -86,7 +86,7 @@ function Ldpage() {
             Iniciar Atendimento <FaArrowRight class="flex justify-center items-center text-[19px]"/>
           </a>
           <p class="flex items-center text-white text-[14px] mt-[30px] hidden ml-2 md:flex"><FaSquare class="text-[7px] text-[#C6A357] mr-2 "/>Atendimento 24 horas</p>
-          <p onClick={() => window.open("https://api.whatsapp.com/send?phone=5521965811001&text=%F0%9F%9A%A8%20URGENTE!%0A%0AOl%C3%A1%2C%20Dr.%20J%C3%BAnior%20Almeida.%20Estou%20passando%20por%20uma%20emerg%C3%AAncia%20jur%C3%ADdica%20e%20preciso%20de%20ajuda%20o%20mais%20r%C3%A1pido%20poss%C3%ADvel.%20%0A%0APoderia%20me%20atender%20com%20urg%C3%AAncia%2C%20por%20favor%3F")} class=" flex items-center text-white text-[14px] hidden md:flex ml-2"><FaSquare class="text-[7px] text-[#d23131] mr-2 "/>Em caso de urgência,<span class="text-[#d23131] ml-1 cursor-pointer">clique aqui.</span></p>
+          <p onClick={() => window.open("hhttps://api.whatsapp.com/send/?phone=21995863769&text=Ol%C3%A1+Dr.+Rodrigo%2C+preciso+de+atendimento+urgente.&type=phone_number&app_absent=0")} class=" flex items-center text-white text-[14px] hidden md:flex ml-2"><FaSquare class="text-[7px] text-[#d23131] mr-2 "/>Em caso de urgência,<span class="text-[#d23131] ml-1 cursor-pointer">clique aqui.</span></p>
         </div>
         
         <div class="h-fit relative">
@@ -97,7 +97,7 @@ function Ldpage() {
             Iniciar Atendimento <FaArrowRight class="flex justify-center items-center text-[19px]"/>
           </a>
           <p class="md:hidden flex items-center text-white text-[14px] mt-[40px]"><FaSquare class="text-[7px] text-[#C6A357] mr-2"/>Atendimento 24 horas</p>
-          <p onClick={() => window.open("https://api.whatsapp.com/send?phone=5521965811001&text=%F0%9F%9A%A8%20URGENTE!%0A%0AOl%C3%A1%2C%20Dr.%20J%C3%BAnior%20Almeida.%20Estou%20passando%20por%20uma%20emerg%C3%AAncia%20jur%C3%ADdica%20e%20preciso%20de%20ajuda%20o%20mais%20r%C3%A1pido%20poss%C3%ADvel.%20%0A%0APoderia%20me%20atender%20com%20urg%C3%AAncia%2C%20por%20favor%3F")} class="md:hidden flex items-center text-white text-[14px]"><FaSquare class="text-[7px] text-[#d23131] mr-2"/>Em caso de urgência ligue,<span class="text-[#d23131] ml-1 cursor-pointer">clique aqui.</span></p>
+          <p onClick={() => window.open("https://api.whatsapp.com/send/?phone=21995863769&text=Ol%C3%A1+Dr.+Rodrigo%2C+preciso+de+atendimento+urgente.&type=phone_number&app_absent=0")} class="md:hidden flex items-center text-white text-[14px]"><FaSquare class="text-[7px] text-[#d23131] mr-2"/>Em caso de urgência ligue,<span class="text-[#d23131] ml-1 cursor-pointer">clique aqui.</span></p>
         </div>
 
       </main>
