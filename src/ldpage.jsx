@@ -137,7 +137,7 @@ de aposentadoria?</p>
 
       </main>
       <footer class="bg-white h-[600px] md:h-[600px] flex flex-col items-center relative px-[25px] sm:px-[50px] xl:px-[90px]">
-        <p class="text-[#C6A357] font-[550] text-[30px] pt-[25px] lg:text-[40px]">Dr. Rodrigo Honório</p>
+        <p class="text-[#C6A357] font-[550] text-[30px] pt-[25px] lg:text-[40px]">Dr. Rodrigo Honório Patrício</p>
 
         <div class="flex items-center flex-col-reverse md:flex-row">
           <div class="xl:w-[800px]">
